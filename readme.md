@@ -24,6 +24,10 @@ The game is intended to last between 5-10 minutes, below is a GIF demonstrating 
 
 ![Animation](https://github.com/ASproson/zelda_cli_game/assets/77736272/56f797e8-a752-4113-9721-8db9e36e7b29)
 
+Above, towards the end of the GIF animation, you will an a Bokoblin be rendered in the console in ASCII. Here is the original:
+
+![Bokoblin](https://img.rankedboost.com/wp-content/uploads/2023/05/Zelda-Tears-of-the-Kingdom-Bokoblin-1.png)
+
 ## Technical Walkthrough
 
 This was a fun project I decided to take on one weekend as I wanted to see if I could produce various game systems from scratch, specifically:
