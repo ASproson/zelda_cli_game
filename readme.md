@@ -8,7 +8,7 @@ Brave the ASCII CLI dungeon, fight enemies in turn-based combat, use items, and 
 
 Python is required to be installed to run the game
 
-> `git clone `
+> `git clone https://github.com/ASproson/zelda_cli_game.git`
 
 > `cd zelda_cli_game`
 
