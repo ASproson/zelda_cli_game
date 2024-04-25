@@ -2,7 +2,11 @@
 
 Intrepid adventurer, Ganon has kidnapped Zelda and it's down to you to rescue her! 
 
-Brave the ASCII CLI dungeon, fight enemies in turn-based combat, use items, and find your way through the dungeon to rescue Zelda!
+- Brave the ASCII CLI dungeon
+- Plot your way through the ASCII maze in real time
+- Fight ASCII enemies from the _Zelda_ franchise in turn-based combat
+- Use items to heal
+- Reach the end to rescue Zelda and claim your reward!
 
 ## Installation
 
